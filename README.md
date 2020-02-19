@@ -1,3 +1,3 @@
 # The Loke Store Clone
-HTML, CSS not responsive website to practice grid and flex of CSS
+HTML, CSS not responsive website to practice grid and flex of CSS<br>
 This page was built base on the template of The Loke on Envato
